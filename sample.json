@@ -1,0 +1,400 @@
+{
+  "title": "休養と生活の工夫｜操作確認用サンプル",
+  "countReason": "",
+  "questions": [
+    {
+      "id": 1,
+      "prompt": "生活を振り返り、休養を確保するために工夫したいことを書こう。",
+      "answer": "生活時間を振り返り、就寝前の過ごし方や休む時間を見直す。",
+      "source": "操作確認用の架空教材。アップロードした教科書は未参照。"
+    },
+    {
+      "id": 2,
+      "prompt": "疲労に気づいたとき、どのような行動が考えられるか。",
+      "answer": "無理を続けず休養を取り、状況に応じて相談する。",
+      "source": "操作確認用の架空教材。アップロードした教科書は未参照。"
+    },
+    {
+      "id": 3,
+      "prompt": "架空の生徒の生活で、変えられそうな点を一つ挙げよう。",
+      "answer": "予定の詰め込みを見直す、休養の時間を予定に入れるなど。",
+      "source": "操作確認用の架空教材。アップロードした教科書は未参照。"
+    },
+    {
+      "id": 4,
+      "prompt": "生活改善の案を一つ選び、理由を説明しよう。",
+      "answer": "本人の生活に合い、無理なく続けられる案とその理由を説明する。",
+      "source": "操作確認用の架空教材。アップロードした教科書は未参照。"
+    },
+    {
+      "id": 5,
+      "prompt": "明日からの行動と、振り返る方法を書こう。",
+      "answer": "休養時間を予定に入れ、実行できたかを記録するなど。",
+      "source": "操作確認用の架空教材。アップロードした教科書は未参照。"
+    }
+  ],
+  "slides": [
+    {
+      "title": "休養を自分の生活と結びつけよう",
+      "message": "生活の中に、休む時間はありますか。",
+      "purpose": "question",
+      "kind": "compare",
+      "nodes": [],
+      "question": 1,
+      "write": true,
+      "activity": "自分の生活で見直したいことを問1に書こう。",
+      "example": "",
+      "thinkSeconds": 0,
+      "minutes": 3,
+      "extra": true,
+      "source": "操作確認用の架空教材。実際の教科書との整合は未確認。",
+      "notes": "操作確認用。教科書に基づく完成教材ではありません。内容や生徒の理解に合わせて進行する。"
+    },
+    {
+      "title": "今日の学習の見通し",
+      "message": "気づく・理解する・工夫を考える。",
+      "purpose": "explain",
+      "kind": "compare",
+      "nodes": [
+        "生活を振り返る",
+        "休養を考える",
+        "工夫を選ぶ"
+      ],
+      "question": null,
+      "write": false,
+      "activity": "",
+      "example": "",
+      "thinkSeconds": 0,
+      "minutes": 3,
+      "extra": true,
+      "source": "操作確認用の架空教材。実際の教科書との整合は未確認。",
+      "notes": "操作確認用。教科書に基づく完成教材ではありません。内容や生徒の理解に合わせて進行する。"
+    },
+    {
+      "title": "活動と休養のバランス",
+      "message": "活動する時間と休む時間を考える。",
+      "purpose": "explain",
+      "kind": "compare",
+      "nodes": [
+        "活動",
+        "休養"
+      ],
+      "question": null,
+      "write": false,
+      "activity": "",
+      "example": "",
+      "thinkSeconds": 0,
+      "minutes": 3,
+      "extra": true,
+      "source": "操作確認用の架空教材。実際の教科書との整合は未確認。",
+      "notes": "操作確認用。教科書に基づく完成教材ではありません。内容や生徒の理解に合わせて進行する。"
+    },
+    {
+      "title": "疲労のサインに気づく",
+      "message": "いつもと違う様子に目を向ける。",
+      "purpose": "explain",
+      "kind": "compare",
+      "nodes": [
+        "自分の変化",
+        "生活の振り返り"
+      ],
+      "question": null,
+      "write": false,
+      "activity": "",
+      "example": "",
+      "thinkSeconds": 0,
+      "minutes": 3,
+      "extra": true,
+      "source": "操作確認用の架空教材。実際の教科書との整合は未確認。",
+      "notes": "操作確認用。教科書に基づく完成教材ではありません。内容や生徒の理解に合わせて進行する。"
+    },
+    {
+      "title": "無理を続ける前に立ち止まる",
+      "message": "疲れを感じたら行動を見直そう。",
+      "purpose": "example",
+      "kind": "compare",
+      "nodes": [
+        "気づく",
+        "休む・相談する"
+      ],
+      "question": 2,
+      "write": true,
+      "activity": "問2に、考えられる行動を書こう。",
+      "example": "部活動後に疲れを感じた架空の生徒が、予定を見直す。",
+      "thinkSeconds": 0,
+      "minutes": 3,
+      "extra": true,
+      "source": "操作確認用の架空教材。実際の教科書との整合は未確認。",
+      "notes": "操作確認用。教科書に基づく完成教材ではありません。内容や生徒の理解に合わせて進行する。"
+    },
+    {
+      "title": "休養を予定に入れる",
+      "message": "余った時間だけでなく、休む時間を考える。",
+      "purpose": "daily",
+      "kind": "compare",
+      "nodes": [
+        "一日の予定",
+        "休養の時間"
+      ],
+      "question": null,
+      "write": false,
+      "activity": "",
+      "example": "勉強や部活動の予定と一緒に、休む時間も考える。",
+      "thinkSeconds": 0,
+      "minutes": 3,
+      "extra": true,
+      "source": "操作確認用の架空教材。実際の教科書との整合は未確認。",
+      "notes": "操作確認用。教科書に基づく完成教材ではありません。内容や生徒の理解に合わせて進行する。"
+    },
+    {
+      "title": "自分に合う休み方を考える",
+      "message": "状況や活動に合わせて工夫する。",
+      "purpose": "explain",
+      "kind": "compare",
+      "nodes": [
+        "今の状況",
+        "必要な休養"
+      ],
+      "question": null,
+      "write": false,
+      "activity": "",
+      "example": "",
+      "thinkSeconds": 0,
+      "minutes": 3,
+      "extra": true,
+      "source": "操作確認用の架空教材。実際の教科書との整合は未確認。",
+      "notes": "操作確認用。教科書に基づく完成教材ではありません。内容や生徒の理解に合わせて進行する。"
+    },
+    {
+      "title": "生活のどこを見直せるだろう",
+      "message": "架空の生活から、工夫の余地を探す。",
+      "purpose": "question",
+      "kind": "compare",
+      "nodes": [],
+      "question": 3,
+      "write": false,
+      "activity": "予定を詰め込んだ生活で、何を見直せるだろう。",
+      "example": "",
+      "thinkSeconds": 0,
+      "minutes": 3,
+      "extra": true,
+      "source": "操作確認用の架空教材。実際の教科書との整合は未確認。",
+      "notes": "操作確認用。教科書に基づく完成教材ではありません。内容や生徒の理解に合わせて進行する。"
+    },
+    {
+      "title": "一つの工夫を考えて書こう",
+      "message": "変えられそうな点を一つ選ぶ。",
+      "purpose": "think",
+      "kind": "compare",
+      "nodes": [],
+      "question": 3,
+      "write": true,
+      "activity": "問3に、見直せる点を一つ書こう。",
+      "example": "",
+      "thinkSeconds": 90,
+      "minutes": 3,
+      "extra": true,
+      "source": "操作確認用の架空教材。実際の教科書との整合は未確認。",
+      "notes": "操作確認用。教科書に基づく完成教材ではありません。考える時間を含めて進行する。"
+    },
+    {
+      "title": "工夫の理由を説明しよう",
+      "message": "選んだ理由も伝えると考えが深まる。",
+      "purpose": "explain",
+      "kind": "compare",
+      "nodes": [
+        "工夫",
+        "理由"
+      ],
+      "question": 4,
+      "write": false,
+      "activity": "",
+      "example": "",
+      "thinkSeconds": 0,
+      "minutes": 3,
+      "extra": true,
+      "source": "操作確認用の架空教材。実際の教科書との整合は未確認。",
+      "notes": "操作確認用。教科書に基づく完成教材ではありません。内容や生徒の理解に合わせて進行する。"
+    },
+    {
+      "title": "複数の案を比べてみよう",
+      "message": "続けやすさを考えて案を選ぶ。",
+      "purpose": "example",
+      "kind": "compare",
+      "nodes": [
+        "予定を調整する",
+        "休養を確保する"
+      ],
+      "question": 4,
+      "write": false,
+      "activity": "",
+      "example": "帰宅後の予定を調整する案と、週全体の予定を見直す案を比較する。",
+      "thinkSeconds": 0,
+      "minutes": 2,
+      "extra": true,
+      "source": "操作確認用の架空教材。実際の教科書との整合は未確認。",
+      "notes": "操作確認用。教科書に基づく完成教材ではありません。内容や生徒の理解に合わせて進行する。"
+    },
+    {
+      "title": "学校生活でできる工夫",
+      "message": "学校での活動と休養を結びつける。",
+      "purpose": "daily",
+      "kind": "compare",
+      "nodes": [
+        "活動の予定",
+        "休む時間"
+      ],
+      "question": null,
+      "write": false,
+      "activity": "",
+      "example": "学校行事が続く週の過ごし方を考える。",
+      "thinkSeconds": 0,
+      "minutes": 2,
+      "extra": true,
+      "source": "操作確認用の架空教材。実際の教科書との整合は未確認。",
+      "notes": "操作確認用。教科書に基づく完成教材ではありません。内容や生徒の理解に合わせて進行する。"
+    },
+    {
+      "title": "家庭でできる工夫",
+      "message": "生活全体を見て調整しよう。",
+      "purpose": "daily",
+      "kind": "compare",
+      "nodes": [
+        "帰宅後の予定",
+        "休養"
+      ],
+      "question": null,
+      "write": false,
+      "activity": "",
+      "example": "翌日の予定に合わせて、帰宅後の過ごし方を見直す。",
+      "thinkSeconds": 0,
+      "minutes": 2,
+      "extra": true,
+      "source": "操作確認用の架空教材。実際の教科書との整合は未確認。",
+      "notes": "操作確認用。教科書に基づく完成教材ではありません。内容や生徒の理解に合わせて進行する。"
+    },
+    {
+      "title": "選んだ案を理由とともに記入",
+      "message": "案と理由をセットで考える。",
+      "purpose": "think",
+      "kind": "compare",
+      "nodes": [],
+      "question": 4,
+      "write": true,
+      "activity": "問4に、工夫とその理由を書こう。",
+      "example": "",
+      "thinkSeconds": 60,
+      "minutes": 2,
+      "extra": true,
+      "source": "操作確認用の架空教材。実際の教科書との整合は未確認。",
+      "notes": "操作確認用。教科書に基づく完成教材ではありません。考える時間を含めて進行する。"
+    },
+    {
+      "title": "考え方の違いを比べよう",
+      "message": "自分と異なる案にも目を向ける。",
+      "purpose": "question",
+      "kind": "compare",
+      "nodes": [],
+      "question": null,
+      "write": false,
+      "activity": "同じ場面でも、なぜ違う案が出るのだろう。",
+      "example": "",
+      "thinkSeconds": 0,
+      "minutes": 2,
+      "extra": true,
+      "source": "操作確認用の架空教材。実際の教科書との整合は未確認。",
+      "notes": "操作確認用。教科書に基づく完成教材ではありません。内容や生徒の理解に合わせて進行する。"
+    },
+    {
+      "title": "無理なく続ける条件を考える",
+      "message": "実行できる小さな工夫を選ぼう。",
+      "purpose": "explain",
+      "kind": "compare",
+      "nodes": [
+        "生活に合う",
+        "続けられる"
+      ],
+      "question": null,
+      "write": false,
+      "activity": "",
+      "example": "",
+      "thinkSeconds": 0,
+      "minutes": 2,
+      "extra": true,
+      "source": "操作確認用の架空教材。実際の教科書との整合は未確認。",
+      "notes": "操作確認用。教科書に基づく完成教材ではありません。内容や生徒の理解に合わせて進行する。"
+    },
+    {
+      "title": "明日からの行動を決めよう",
+      "message": "行動を具体的にすると実行しやすい。",
+      "purpose": "think",
+      "kind": "compare",
+      "nodes": [],
+      "question": 5,
+      "write": true,
+      "activity": "問5に、行動と振り返り方を書こう。",
+      "example": "",
+      "thinkSeconds": 60,
+      "minutes": 2,
+      "extra": true,
+      "source": "操作確認用の架空教材。実際の教科書との整合は未確認。",
+      "notes": "操作確認用。教科書に基づく完成教材ではありません。考える時間を含めて進行する。"
+    },
+    {
+      "title": "振り返りから次の工夫へ",
+      "message": "実行して気づいたことを見直しに生かす。",
+      "purpose": "explain",
+      "kind": "compare",
+      "nodes": [
+        "実行",
+        "振り返り",
+        "見直し"
+      ],
+      "question": null,
+      "write": false,
+      "activity": "",
+      "example": "",
+      "thinkSeconds": 0,
+      "minutes": 2,
+      "extra": true,
+      "source": "操作確認用の架空教材。実際の教科書との整合は未確認。",
+      "notes": "操作確認用。教科書に基づく完成教材ではありません。内容や生徒の理解に合わせて進行する。"
+    },
+    {
+      "title": "今日の内容をつなげよう",
+      "message": "気づきから、生活に合った工夫へ。",
+      "purpose": "summary",
+      "kind": "compare",
+      "nodes": [
+        "気づく",
+        "考える",
+        "生活で試す"
+      ],
+      "question": null,
+      "write": false,
+      "activity": "",
+      "example": "",
+      "thinkSeconds": 0,
+      "minutes": 2,
+      "extra": true,
+      "source": "操作確認用の架空教材。実際の教科書との整合は未確認。",
+      "notes": "操作確認用。教科書に基づく完成教材ではありません。内容や生徒の理解に合わせて進行する。"
+    },
+    {
+      "title": "学びを日常へ持ち帰ろう",
+      "message": "一つの行動から振り返ってみよう。",
+      "purpose": "summary",
+      "kind": "compare",
+      "nodes": [],
+      "question": 5,
+      "write": false,
+      "activity": "問5に書いた行動を、もう一度確認しよう。",
+      "example": "",
+      "thinkSeconds": 0,
+      "minutes": 2,
+      "extra": true,
+      "source": "操作確認用の架空教材。実際の教科書との整合は未確認。",
+      "notes": "操作確認用。教科書に基づく完成教材ではありません。内容や生徒の理解に合わせて進行する。"
+    }
+  ]
+}
